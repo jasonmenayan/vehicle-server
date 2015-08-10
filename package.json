@@ -1,0 +1,24 @@
+{
+  "name": "vehicle-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasonmenayan/vehicle-server.git"
+  },
+  "author": "Jason Menayan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jasonmenayan/vehicle-server/issues"
+  },
+  "homepage": "https://github.com/jasonmenayan/vehicle-server#readme",
+  "dependencies": {
+    "express": "^4.13.3",
+    "request-promise": "^0.4.3"
+  }
+}
